@@ -13,3 +13,10 @@ This IP helps Account Managers / Program Managers to review their portfolio mile
 **Fifth and sixth** are the overall and details of the second project sample in the dashbaord
 
 **Final dashbaord** is the Accounts Receivable status (AR) , Invoiced Vs paid 
+
+New features to be included in the IP roadmap :
+
+1- An interface to enter the mielstones instead of an Excel sheet
+2- Showing Program Efforts Completion Vs Invoicing %
+3- Updating the dashbaord automatically without re-publishing 
+4- Showing Forecast Vs Actual in the same fiscal year 
